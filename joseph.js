@@ -13,7 +13,7 @@ let data =xlsx.utils.sheet_to_json(ws);
                 service:"gmail",
                 auth: {
                   user:"cherkawibilal7@gmail.com", // generated ethereal user
-                  pass:"bilal1231" , // generated ethereal password
+                  pass:"" , // generated ethereal password
                 },
               });
               let mailoption = {
@@ -39,7 +39,7 @@ let data =xlsx.utils.sheet_to_json(ws);
                 service:"gmail",
                 auth: {
                   user:"cherkawibilal7@gmail.com", // generated ethereal user
-                  pass:"bilal1231" , // generated ethereal password
+                  pass:"" , // generated ethereal password
                 },
               });
               let mailoption = {
